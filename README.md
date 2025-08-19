@@ -10,8 +10,8 @@
 # 🌟 Hey there, I'm Manusha Sathsara 👋  
 
 🎨 **Full Stack Enthusiast | Creative Designer | Tech Explorer**  
-Welcome to my little space on GitHub! 🚀  
-I love experimenting with code, design, and creativity to bring **ideas to life**. From sleek front-ends to powerful back-ends, I’m always chasing the sweet spot where **technology meets art**.  
+- Welcome to my little space on GitHub! 🚀  
+- I love experimenting with code, design, and creativity to bring **ideas to life**. From sleek front-ends to powerful back-ends, I’m always chasing the sweet spot where **technology meets art**.  
 
 ---
 
@@ -37,6 +37,7 @@ I love experimenting with code, design, and creativity to bring **ideas to life*
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
 **Other Skills**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
@@ -45,11 +46,27 @@ I love experimenting with code, design, and creativity to bring **ideas to life*
 
 ---
 
-## 🚀 Featured Project  
+## 🚀 Featured Projects  
 
 ### 🎭 [Studio PixelAura](https://github.com/Manusha-Sathsara/Studio-Pixel-Aura-Portfolio-Project)  
 ✨ *Official portfolio website for Studio PixelAura, designed to showcase our creative projects and services in a visually captivating, user-friendly manner.*  
+
 🛠️ *Built with:* `HTML` · `CSS` · `JavaScript`  
+
+🔗 **Links:**  
+[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manusha-Sathsara/Studio-Pixel-Aura-Portfolio-Project)  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://manusha-sathsara.github.io/Studio-Pixel-Aura-Portfolio-Project/)  
+
+---
+
+### 🍲 [TasteBook](https://github.com/Manusha-Sathsara/TasteBook-Group08)  
+✨ *A recipe sharing platform where you can easily share, explore, and filter a wide variety of recipes.*  
+
+🛠️ *Built with:* `React` · `Tailwind CSS` · `TypeScript`  
+
+🔗 **Links:**  
+[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manusha-Sathsara/TasteBook-Group08)  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-999999?style=for-the-badge&logo=netlify&logoColor=white)](#) <!-- replace # with link once deployed -->  
 
 ---
 
@@ -70,6 +87,13 @@ I love experimenting with code, design, and creativity to bring **ideas to life*
 
 📧 **Email:** [manushasj111@gmail.com](mailto:manushasj111@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/manusha-sathsara-jayasinghe-8a580b198](https://www.linkedin.com/in/manusha-sathsara-jayasinghe-8a580b198)  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manusha-Sathsara&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Visitors-∞-brightgreen?style=for-the-badge&logo=github" alt="Visitors" />
+</p>
 
 ---
 
